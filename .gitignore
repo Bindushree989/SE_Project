@@ -1,3 +1,4 @@
 __pycache__/
 *.pyc
 mlruns/
+data/height_weight.csv
