@@ -1,0 +1,5 @@
+outs:
+- md5: 0d0e541b8f0ccb5a73d0fd7be3a17b13
+  size: 55
+  hash: md5
+  path: height_weight.csv
